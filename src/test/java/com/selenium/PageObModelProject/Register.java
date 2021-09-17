@@ -7,5 +7,11 @@ public class Register {
 	{
 		
 	}
+	public void fillform() {
+		System.out.println("Hello");
+		
+	}
+	
+	
 
 }
