@@ -13,5 +13,10 @@ public class Register {
 	}
 	
 	
+	public void m2()
+	{
+		System.out.println("From Server");
+	}
+	
 
 }
