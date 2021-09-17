@@ -6,5 +6,11 @@ public class Register {
 	{
 		
 	}
+	
+	public void m2()
+	{
+		system.out.println("From Server");
+	}
+	
 
 }
