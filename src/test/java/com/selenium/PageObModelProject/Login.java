@@ -4,5 +4,8 @@ public class Login {
 	
 	
 	int i = 10;
+	
+	String name ;
+	
 
 }
